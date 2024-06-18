@@ -1,2 +1,2 @@
 # SoftWareCollection
-This is a SoftWare or Util Collection
+This is a SoftWare and Util Collection
